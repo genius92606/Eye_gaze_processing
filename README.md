@@ -6,7 +6,7 @@ Latest matlab
 
 # Execution
 
-Open "Final.mlapp" in "App" Folder
+Start "Final.mlapp" in "App" Folder
 1. Click "Import" to import any eye gaze data
 2. Click "Generate graph" to draw all data
 3. Click "Detect and eliminate outliers" (It is better to click twice)
