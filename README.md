@@ -1,5 +1,5 @@
 # Eye_gaze_processing
-Make eye gaze data useable, basically determine the outliers and anomolies. Then fill up the gap using cubic-spline interpolation.
+Make eye gaze data useable. Basically it determines the outliers and anomolies, then fill up the gap using cubic-spline interpolation.
 
 # Requirement
 Latest matlab
